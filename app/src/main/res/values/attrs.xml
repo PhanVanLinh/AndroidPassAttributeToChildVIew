@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomRelativeLayout_Layout">
+        <attr name="layout_title" format="string" />
+    </declare-styleable>
+</resources>
